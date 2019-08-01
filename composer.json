@@ -2,6 +2,13 @@
     "name": "catland/f2f-tool1-helper",
     "description": "tool1 helper",
     "license": "MIT",
+	"authors": [
+    {
+      "name": "Worapon Catland",
+      "email": "catlandsoft@gmail.com",
+      "role": "Developer"
+    }
+  ],
     "require": {
       "php": ">=7"
     },
@@ -9,7 +16,7 @@
     },
     "autoload": {
       "psr-4": {
-        "CatLand\\F2F\\Tool1\\Helper\\": "src/CatLand/F2F/Tool1/Helper"
+        "CatLand\\F2F\\Tool1\\Helper\\": "src"
       }
     }
   }

@@ -1,0 +1,15 @@
+{
+    "name": "catland/f2f-tool1-helper",
+    "description": "tool1 helper",
+    "license": "MIT",
+    "require": {
+      "php": ">=7"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+      "psr-4": {
+        "CatLand\\Tool1\\": "src/CatLand/Tool1"
+      }
+    }
+  }

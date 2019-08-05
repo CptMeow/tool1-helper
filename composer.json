@@ -16,7 +16,7 @@
     },
     "autoload": {
       "psr-4": {
-        "CatLand\\": "src/"
+        "CatLand\\F2fTool1Helper\\": "src"
       }
     }
   }

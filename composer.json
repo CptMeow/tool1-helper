@@ -1,6 +1,6 @@
 {
     "name": "catland/f2f-tool1-helper",
-    "description": "tool1 helper",
+    "description": "F2F tool1 helper",
     "license": "MIT",
 	"authors": [
     {
@@ -16,7 +16,7 @@
     },
     "autoload": {
       "psr-4": {
-        "CatLand\\F2F\\Tool1\\": "src/CatLand/F2F/Tool1"
+        "CatLand\\": "src/"
       }
     }
   }

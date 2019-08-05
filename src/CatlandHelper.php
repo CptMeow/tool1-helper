@@ -2,7 +2,7 @@
 /**
  * Cat Land Soft Helper
  */
-namespace Catland\F2F\Tool1\Helper;
+namespace Catland;
 
 class CatlandHelper
 {
